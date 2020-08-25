@@ -1,4 +1,4 @@
 # Bazinga
 
-> Sheldon: ":hand: :hand: :hand: Penny. :hand: :hand: :hand: Penny. :hand: :hand: :hand: Penny"
+> Sheldon: ":fist: :fist: :fist: Penny. :fist: :fist: :fist: Penny. :fist: :fist: :fist: Penny"
 
