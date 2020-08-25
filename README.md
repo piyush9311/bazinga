@@ -1,6 +1,4 @@
-# Trains
+# Bazinga
 
-### Q. Sheldon loves trains more than science.
-- [x] True
-- [] False
+> Sheldon: ":hand: :hand: :hand: Penny. :hand: :hand: :hand: Penny. :hand: :hand: :hand: Penny"
 
